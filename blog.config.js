@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'Blog',
+  title: 'Lewis\' Home',
   author: 'LewisWong',
   email: 'hiycc@outlook.com',
-  link: 'https://nobelium-hiycc.vercel.app/',
+  link: 'luxiwong.cn/',
   description: 'This gonna be an awesome website.',
   lang: 'zn-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -12,7 +12,7 @@ const BLOG = {
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // If leave this empty, current year will be used.
   postsPerPage: 7,
-  sortByDate: false,
+  sortByDate: true,
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
