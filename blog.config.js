@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Blog',
   author: 'LewisWong',
   email: 'hiycc@outlook.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://nobelium-hiycc.vercel.app/',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
